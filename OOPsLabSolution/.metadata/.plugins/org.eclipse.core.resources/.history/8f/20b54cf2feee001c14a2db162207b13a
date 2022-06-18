@@ -1,0 +1,5 @@
+package com.greatlearning.emailApp.model;
+
+public class Employee {
+
+}

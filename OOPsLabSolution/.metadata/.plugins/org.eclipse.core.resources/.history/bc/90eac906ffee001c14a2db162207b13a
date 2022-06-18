@@ -1,0 +1,5 @@
+package com.greatlearning.emailApp.services;
+
+public class MyConsole {
+
+}
